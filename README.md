@@ -16,3 +16,10 @@ Constraints:
 1 <= nums.length <= 104
 -104 <= nums[i] <= 104
 nums is sorted in non-decreasing order.
+
+
+
+
+answer
+
+print(sorted([i ** 2 for i in nums]))
